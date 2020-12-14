@@ -2,7 +2,8 @@
 
 
 
-Goals of this software: Build a software for Hotel Management
+Goals of this software: Build a software for Hotel Management.
+
 Business objectives: Build management systems for the following main subjects:
 1. Manager: manage information about rooms and hotel, create and check the report.
 
